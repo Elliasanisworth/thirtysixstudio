@@ -1,4 +1,4 @@
-> ⚠️ **Note from Fork Author**  
+> ⚠️ **Note**  
 > This project is a **forked version** of a portfolio originally built by the creator. You can find the original author’s profile here:[ https://github.com/asynchronousJavascriptor](https://github.com/asynchronousJavascriptor).  
 > I’m using this repository to explore modern frontend design, layout structure, and animation techniques.  
 >  
