@@ -1,3 +1,8 @@
+> ⚠️ **Note from Fork Author**  
+> This project is a **forked version** of a portfolio originally built by the creator. You can find the original author’s profile here:[ https://github.com/asynchronousJavascriptor](https://github.com/asynchronousJavascriptor).  
+> I’m using this repository to explore modern frontend design, layout structure, and animation techniques.  
+>  
+> This is **not for commercial use**, but part of my learning journey as a self-taught developer.
 # ThirtySix Studio - Agency Portfolio
 
 ![ThirtySix Studio Banner](./36.png)
